@@ -5,6 +5,8 @@ end
 end
 
 def summon_captain_planet(array)
+  green_mullet = []
+  
   # Your code here
 end
 
