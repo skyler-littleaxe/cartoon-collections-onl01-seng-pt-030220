@@ -5,7 +5,7 @@ end
 end
 
 def summon_captain_planet(array)
-array.upcase
+array.uppercase
 end
 
 #def find_the_cheese# code an argument here
