@@ -5,7 +5,10 @@ end
 end
 
 def summon_captain_planet(array)
+  i = 0
   green_mullet = []
+  while i > array.length
+  array.
   
   # Your code here
 end
