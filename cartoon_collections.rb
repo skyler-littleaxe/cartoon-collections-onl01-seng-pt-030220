@@ -5,8 +5,7 @@ end
 end
 
 def summon_captain_planet(array)
-  green_mullet = []
-array.uppercase 
+array.map { |powers| powers.uppercase}
 
 end
 
