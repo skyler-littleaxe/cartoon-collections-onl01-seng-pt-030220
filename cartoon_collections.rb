@@ -5,18 +5,7 @@ end
 end
 
 def summon_captain_planet(array)
- i = 0
- green_mullet = []
-  while i < array.length
-  green_mullet <<
-  yield(array)
-  i += 1
-end
-green_mullet
-end
 
-summon_captain_planet(array) { |powers| powers.upcase}
-  
   # Your code here
 #end
 
