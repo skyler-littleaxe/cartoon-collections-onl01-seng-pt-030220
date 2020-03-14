@@ -13,7 +13,7 @@ def summon_captain_planet(array)
 end
 green_mullet
 end
-summon_captain_planet(array) { |powers| power.upcase}
+summon_captain_planet(array) { |powers| powers.upcase}
   
   # Your code here
 end
