@@ -5,8 +5,8 @@ end
 end
 
 def summon_captain_planet(array)
-array.map.upcase
-
+array.map {|power| power.upcase+"!"
+end
 end
 
 #def find_the_cheese# code an argument here
