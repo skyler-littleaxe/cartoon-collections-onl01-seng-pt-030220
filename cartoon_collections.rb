@@ -13,7 +13,7 @@ powers
 end
 
 def long_planeteer_calls(array)
- array.any?{|call| call > 4}
+ array.any?{|call| call  4}
  end
 
 
