@@ -4,8 +4,8 @@ def roll_call_dwarves(array)  #code an argument here
 end
 end
 
-def summon_captain_planet(array)
-array.map {|power| power.upcase+"!"}
+#def summon_captain_planet(array)
+#array.map {|power| power.upcase+"!"}
 end
 end
 
