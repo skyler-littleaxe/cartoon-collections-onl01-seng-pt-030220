@@ -9,6 +9,7 @@ def summon_captain_planet(array)
 array.map {|power| power.upcase}
 captain <<
 end
+captain
 end
 
 #def find_the_cheese# code an argument here
