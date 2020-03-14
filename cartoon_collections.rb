@@ -8,7 +8,7 @@ def summon_captain_planet(array)
   i = 0
   green_mullet = []
   while i > array.length
-  array.each.&upcase 
+  geen_mullet <<
   
   # Your code here
 end
