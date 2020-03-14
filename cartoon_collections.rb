@@ -7,7 +7,7 @@ end
 def summon_captain_planet(array)
  i = 0
  green_mullet = []
-  while i > array.length
+  while i < array.length
   geen_mullet <<
   yield(array)
   i += 1
