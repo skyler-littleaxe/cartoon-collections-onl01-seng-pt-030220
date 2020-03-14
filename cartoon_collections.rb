@@ -6,8 +6,8 @@ end
 
 def summon_captain_planet(array)
   power = []
-array.map {|power| power.capitalize+"!" power << }
-power
+array.map {|power| power.capitalize+"!" powers << }
+powers
 end
 
 #def find_the_cheese# code an argument here
