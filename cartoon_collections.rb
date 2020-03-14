@@ -4,10 +4,12 @@ def roll_call_dwarves(array)  #code an argument here
 end
 end
 
-#def summon_captain_planet(array)
-#array.map {|power| power.upcase+"!"}
-#end
-#end
+def summon_captain_planet(array)
+  captain = []
+array.map {|power| power.upcase+"!"}
+captain <<
+end
+end
 
 #def find_the_cheese# code an argument here
   # the array below is here to help
