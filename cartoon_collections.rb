@@ -7,8 +7,7 @@ end
 def summon_captain_planet(array)
   powers = []
 array.map do |power| 
-  power.capitalize+"!"
-powers << power
+powers << power.capitalize+"!"
 end
 powers
 end
