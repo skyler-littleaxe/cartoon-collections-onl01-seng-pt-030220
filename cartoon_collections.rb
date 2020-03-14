@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(array)
   captain = []
-array.map {|power| power.upcase+"!"}
+array.map {|power| power.upcase}
 captain <<
 end
 end
