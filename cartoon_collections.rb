@@ -15,7 +15,7 @@ end
 green_mullet
 end
 
-#summon_captain_planet(array) { |powers| powers.upcase}
+summon_captain_planet(array) { |powers| powers.upcase}
   
   # Your code here
 #end
