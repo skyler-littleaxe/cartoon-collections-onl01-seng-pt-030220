@@ -13,7 +13,7 @@ powers
 end
 
 def long_planeteer_calls(array)
-  if calls.count 
+ array.any?{|call| call >4
 
 
 #def find_the_cheese# code an argument here
